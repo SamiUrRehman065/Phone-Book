@@ -13,7 +13,7 @@ This Phone Book Management System is more than just a contact manager—it's a s
 ## 👨‍💻 Developer
 
 **Sami Ur Rehman**  
-Final Year Computer Science Student  
+Computer Science Student  
 Karachi, Pakistan  
 
 > “I didn’t just want to pass the course—I wanted to prove to myself that I could build something real, structured, and scalable. This project is my reflection of growth.”  
